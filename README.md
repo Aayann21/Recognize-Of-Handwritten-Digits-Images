@@ -6,11 +6,11 @@ This project recognizes **handwritten digits (0–9)** using a **Machine Learnin
 
 ## Libraries Used
 
-* NumPy
-* Pandas
-* Matplotlib
-* Seaborn
-* Scikit-learn
+numpy
+matplotlib
+tensorflow.keras (mnist dataset)
+sklearn.neural_network (MLPClassifier)
+sklearn.metrics
 
 ## Dataset
 
